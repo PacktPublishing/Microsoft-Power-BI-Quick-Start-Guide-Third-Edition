@@ -1,4 +1,12 @@
 
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
+
 
 # Microsoft-Power-BI-Quick-Start-Guide-Third-Edition
 Code Repository for [Microsoft Power BI Quick Start Guide, Third Edition](https://www.packtpub.com/product/microsoft-power-bi-quick-start-guide-third-edition/9781804613498), Published by Packt
